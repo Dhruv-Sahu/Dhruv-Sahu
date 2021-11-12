@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruv-Sahu
-- 👀 I’m interested in Tech, Computers , Finance and Business managment.
+- 👀 I’m interested in Blockchain, Fintech technology, and Ethereum.
 - 🌱 I’m currently learning Open source and its contribution.
 - 💞️ I’m looking to collaborate on projects that helps people in their respective field.
 - 📫 You can reach me through github itself
