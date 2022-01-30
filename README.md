@@ -46,7 +46,8 @@
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /> 
+<img style="margin: 10px" src="https://images.app.goo.gl/Ht8u7bqjcCrzRqwWA" alt="Ethereum" height="50" />  
 </div>
 
 </td></tr></table>  
