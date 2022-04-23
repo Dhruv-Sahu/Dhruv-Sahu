@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">Hi! I'm Dhruv Sahu</div>  
